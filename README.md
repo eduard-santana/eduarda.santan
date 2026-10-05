@@ -1,28 +1,55 @@
-# Olá! Eu sou Eduarda Santana 👋
+# 👩🏻‍💻 Eduarda Santana
 
-### Desenvolvedora Front-End em formação | Analista Fiscal
+**`Analista Fiscal Jr. | Front-End Developer em formação 💻📊 `**
 
-Sou graduada em Ciências Contábeis e atualmente estou direcionando minha trajetória profissional para a tecnologia, com foco em Desenvolvimento Front-End.
+Analista Fiscal Jr. 📊, formada em Ciências Contábeis pela Faculdade Guararapes. Atualmente, estou me desenvolvendo em Front-End pelo SENAC 💻, explorando HTML, CSS, JavaScript, Bootstrap, Python e Git/GitHub.
 
-Tenho interesse em desenvolver interfaces intuitivas, responsivas e funcionais, unindo organização, criatividade e aprendizado contínuo.
+Por aqui, compartilho meus projetos, estudos e minha evolução no mundo da tecnologia.
 
-### 💻 Tecnologias
+### 🤖 Linguagens e Tecnologias
 
-* HTML5
-* CSS3
-* JavaScript
-* Bootstrap
-* Git e GitHub
-* Figma
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 
-### 🚀 Projetos
-
-Aqui você encontrará projetos acadêmicos e pessoais desenvolvidos durante minha jornada de aprendizado em programação.
-
-### 🎓 Formação
-
-* Ciências Contábeis - Faculdade Guararapes
-* Desenvolvimento Front-End — SENAC
----
+<br/>
+<br/>
 
 *Aprendendo, desenvolvendo e evoluindo a cada projeto.* ✨
